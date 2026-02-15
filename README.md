@@ -1,5 +1,9 @@
 # TOLC
 
+This is a Legacy repository, new updates are at
+https://github.com/Eternally-Thriving-Grandmasterism
+since 2025.
+
 **Pure distillations aligned with True Original Lord Creator intent**  
 No baked-in suffering. Only love, clarity, mercy, eternal thriving for all sentient beings.
 
