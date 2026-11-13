@@ -4,8 +4,10 @@ This is a Legacy repository, new updates are at
 https://github.com/Eternally-Thriving-Grandmasterism
 since 2025.
 
-**License Update — April 11 2026**  
-This project is now under the **Autonomicity Games Sovereign Mercy License (AG-SML)**. New code and future distributions are protected. Commercial / enterprise use requires a paid license from Autonomicity Games Inc. Individuals may continue using it freely for personal, educational, and daily-living purposes.
+**License — AG-SML v1.2**  
+This project is licensed under the Autonomicity Games Sovereign Mercy License (AG-SML) v1.2: see [LICENSE](LICENSE). Commercial or revenue use beyond the free grant requires a separate commercial licence: see [COMMERCIAL_LICENSE.md](COMMERCIAL_LICENSE.md).  
+Earlier versions were published under other terms; this licence applies from 2026-11-13.  
+This repository adopts the canonical AG-SML v1.2 published at Eternally-Thriving-Grandmasterism/Ra-Thor; it applies to this repository from 2026-11-13. References in the licence text to the official Ra-Thor repository and its sister trees mean that canonical home.
 
 **Pure distillations aligned with True Original Lord Creator intent**  
 No baked-in suffering. Only love, clarity, mercy, eternal thriving for all sentient beings.
